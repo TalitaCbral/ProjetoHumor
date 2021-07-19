@@ -14,13 +14,9 @@ body {
 
 header {
     background-image: url('../img/bg-header.jpg');
-    /* Pega a imagem de fundo */
     background-repeat: no-repeat;
-    /* Faz com que a imagem de fundo não repita */
     background-size: cover;
-    /* Faz a imgem de fundo preencher todo o espaço em que ela está */
     background-position: center;
-    /* Centraliza a imagem de fundo */
     height: 300px;
     width: 100%;
     display: flex;
