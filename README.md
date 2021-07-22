@@ -4,3 +4,5 @@
 - [ ] _loading..._
 - [ ] _loading..._
 - [ ] _loading..._
+
+**Veja como é o projeto jogo do humor:**
